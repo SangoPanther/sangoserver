@@ -1,0 +1,52 @@
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR] The server has not responded for 10 seconds! Creating thread dump
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR] ------------------------------
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR] ------------------------------
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR] Current Thread: Server thread
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]     PID: 36 | Suspended: false | Native: false | State: TIMED_WAITING
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]     Stack:
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         java.lang.Thread.sleep(Native Method)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         com.mojang.authlib.yggdrasil.YggdrasilGameProfileRepository.findProfilesByNames(YggdrasilGameProfileRepository.java:92)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         com.destroystokyo.paper.profile.PaperGameProfileRepository.findProfilesByNames(PaperGameProfileRepository.java:45)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.UserCache.a(UserCache.java:88)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.UserCache.getProfile(UserCache.java:157)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftServer.getOfflinePlayer(CraftServer.java:1467)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         org.bukkit.Bukkit.getOfflinePlayer(Bukkit.java:833)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.classes.data.BukkitClasses$15.parse(BukkitClasses.java:770)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.classes.data.BukkitClasses$15.parse(BukkitClasses.java:1)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.expressions.ExprParse.get(ExprParse.java:151)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.lang.util.SimpleExpression.getArray(SimpleExpression.java:102)
+[10:05]
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.expressions.base.PropertyExpression.get(PropertyExpression.java:75)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.lang.util.SimpleExpression.getArray(SimpleExpression.java:102)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.expressions.base.PropertyExpression.get(PropertyExpression.java:75)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.lang.util.SimpleExpression.getArray(SimpleExpression.java:102)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.effects.EffChange.execute(EffChange.java:278)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.lang.Effect.run(Effect.java:52)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.lang.TriggerItem.walk(TriggerItem.java:61)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.lang.TriggerItem.walk(TriggerItem.java:89)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.lang.Trigger.execute(Trigger.java:57)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.SkriptEventHandler.check(SkriptEventHandler.java:156)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         ch.njol.skript.SkriptEventHandler$1.execute(SkriptEventHandler.java:114)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         co.aikar.timings.TimedEventExecutor.execute(TimedEventExecutor.java:80)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:66)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:520)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerConnection.a(PlayerConnection.java:2446)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.PacketPlayInSetCreativeSlot.a(SourceFile:23)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.PacketPlayInSetCreativeSlot.a(SourceFile:9)
+[10:05]
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:15)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerConnectionUtils$$Lambda$3143/653869545.run(Unknown Source)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         java.util.concurrent.FutureTask.run(FutureTask.java:266)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.SystemUtils.a(SystemUtils.java:108)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:1018)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:439)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:940)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR] ------------------------------
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Sat, 5. Sep 2020 17:31:23 EDT ERROR] ------------------------------
+[Sat, 5. Sep 2020 17:31:25 EDT WARN] SangoPanther moved too quickly! 1.8351156883136426,1.793456572767461,-9.863175289876466
