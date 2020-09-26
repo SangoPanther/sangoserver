@@ -1,84 +1,108 @@
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR] The server has not responded for 10 seconds! Creating thread dump
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR] ------------------------------
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR] ------------------------------
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR] Current Thread: Server thread
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR]     Stack:
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR]         java.io.FileOutputStream.close0(Native Method)
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR]         java.io.FileOutputStream.access$000(FileOutputStream.java:53)
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR]         java.io.FileOutputStream$1.close(FileOutputStream.java:356)
-[Fri, 25. Sep 2020 02:59:32 EDT ERROR]         java.io.FileDescriptor.closeAll(FileDescriptor.java:212)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         java.io.FileOutputStream.close(FileOutputStream.java:354)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:241)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         java.io.FilterOutputStream.close(FilterOutputStream.java:159)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         java.io.FilterOutputStream.close(FilterOutputStream.java:159)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         net.minecraft.server.v1_13_R2.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:37)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.a(WorldPersistentData.java:193)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.b(WorldPersistentData.java:173)
-[19:33]
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection$$Lambda$2974/1942397145.accept(Unknown Source)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         com.google.common.collect.ImmutableList.forEach(ImmutableList.java:408)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection.a(SourceFile:39)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:936)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR] ------------------------------
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[Fri, 25. Sep 2020 02:59:33 EDT ERROR] ------------------------------
-[19:33]
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR] The server has not responded for 15 seconds! Creating thread dump
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR] ------------------------------
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR] ------------------------------
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR] Current Thread: Server thread
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]     Stack:
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         java.io.FileOutputStream.open0(Native Method)
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         java.io.FileOutputStream.open(FileOutputStream.java:270)
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:213)
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:162)
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldNBTStorage.saveWorldData(WorldNBTStorage.java:171)
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         net.minecraft.server.v1_13_R2.ServerNBTManager.saveWorldData(SourceFile:33)
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:935)
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
-[19:33]
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR] ------------------------------
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[Fri, 25. Sep 2020 02:59:37 EDT ERROR] ------------------------------
-[19:33]
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR] The server has not responded for 20 seconds! Creating thread dump
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR] ------------------------------
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR] ------------------------------
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR] Current Thread: Server thread
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]     Stack:
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         java.io.FileOutputStream.writeBytes(Native Method)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         java.io.FileOutputStream.write(FileOutputStream.java:313)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         net.minecraft.server.v1_13_R2.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:32)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldNBTStorage.saveWorldData(WorldNBTStorage.java:171)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         net.minecraft.server.v1_13_R2.ServerNBTManager.saveWorldData(SourceFile:33)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:935)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
-[19:33]
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR] ------------------------------
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
-[Fri, 25. Sep 2020 02:59:42 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:50:28 EDT WARN] SangoPanther moved too quickly! -0.6364105321893011,0.495200877005912,-10.264132829046986
+[15:24]
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR] The server has not responded for 10 seconds! Creating thread dump
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         java.io.FileOutputStream.open0(Native Method)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         java.io.FileOutputStream.open(FileOutputStream.java:270)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.a(WorldPersistentData.java:191)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.b(WorldPersistentData.java:173)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection$$Lambda$2986/580107904.accept(Unknown Source)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         com.google.common.collect.ImmutableList.forEach(ImmutableList.java:408)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection.a(SourceFile:39)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:936)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
+[15:24]
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 22:50:47 EDT ERROR] ------------------------------
+[15:24]
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR] The server has not responded for 15 seconds! Creating thread dump
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]         java.io.FileInputStream.open0(Native Method)
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]         java.io.FileInputStream.open(FileInputStream.java:195)
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]         java.io.FileInputStream.<init>(FileInputStream.java:138)
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldNBTStorage.checkSession(WorldNBTStorage.java:125)
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]         net.minecraft.server.v1_13_R2.World.checkSession(World.java:2825)
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:914)
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR] ------------------------------
+[15:24]
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 22:50:52 EDT ERROR] ------------------------------
+[15:24]
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR] The server has not responded for 20 seconds! Creating thread dump
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         java.io.FileOutputStream.writeBytes(Native Method)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         java.io.FileOutputStream.write(FileOutputStream.java:313)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         java.util.zip.GZIPOutputStream.writeHeader(GZIPOutputStream.java:182)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:94)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         java.util.zip.GZIPOutputStream.<init>(GZIPOutputStream.java:109)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         net.minecraft.server.v1_13_R2.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:32)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldNBTStorage.saveWorldData(WorldNBTStorage.java:171)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         net.minecraft.server.v1_13_R2.ServerNBTManager.saveWorldData(SourceFile:33)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:935)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
+[15:25]
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 22:50:57 EDT ERROR] ------------------------------
+[15:25]
+[Fri, 25. Sep 2020 22:51:02 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 22:51:02 EDT ERROR] The server has not responded for 25 seconds! Creating thread dump
+[Fri, 25. Sep 2020 22:51:02 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:51:02 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 22:51:02 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:51:02 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 22:51:02 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[15:25]
+[Fri, 25. Sep 2020 22:51:04 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         java.io.FileOutputStream.open0(Native Method)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         java.io.FileOutputStream.open(FileOutputStream.java:270)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.a(WorldPersistentData.java:191)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.b(WorldPersistentData.java:173)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection$$Lambda$2986/580107904.accept(Unknown Source)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         com.google.common.collect.ImmutableList.forEach(ImmutableList.java:408)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection.a(SourceFile:39)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:936)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 22:51:06 EDT ERROR] ------------------------------
