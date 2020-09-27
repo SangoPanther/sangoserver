@@ -1,3 +1,31 @@
+[[Fri, 25. Sep 2020 22:45:27 EDT INFO] There are 0 of a max 25 players online:
+[15:19]
+[Fri, 25. Sep 2020 22:45:37 EDT INFO] [INFO]緊急時以外の運営メンバー個人へのお問い合わせはご遠慮ください。
+[15:20]
+[Fri, 25. Sep 2020 22:46:06 EDT INFO] There are 0 of a max 25 players online:
+[15:20]
+[Fri, 25. Sep 2020 22:46:45 EDT INFO] There are 0 of a max 25 players online:
+[15:21]
+[Fri, 25. Sep 2020 22:47:26 EDT INFO] There are 0 of a max 25 players online:
+[15:22]
+[Fri, 25. Sep 2020 22:48:05 EDT INFO] There are 0 of a max 25 players online: 
+[Fri, 25. Sep 2020 22:48:07 EDT INFO] [INFO]一番右のネザースターでスポーンに戻れます。
+[15:22]
+[Fri, 25. Sep 2020 22:48:44 EDT INFO] There are 0 of a max 25 players online:
+[15:23]
+[Fri, 25. Sep 2020 22:49:23 EDT INFO] There are 0 of a max 25 players online:
+[15:23]
+[Fri, 25. Sep 2020 22:49:54 EDT INFO] com.mojang.authlib.GameProfile@75dd7e21[id=<null>,name=SangoPanther,properties={},legacy=false] (/126.82.181.233:49590) lost connection: Disconnected
+[15:24]
+[Fri, 25. Sep 2020 22:50:02 EDT INFO] There are 0 of a max 25 players online: 
+[Fri, 25. Sep 2020 22:50:03 EDT INFO] UUID of player SangoPanther is d4bab164-2fff-40e6-90e3-13b3e27ae654
+[Fri, 25. Sep 2020 22:50:03 EDT INFO] Set 18 experience levels on SangoPanther
+[Fri, 25. Sep 2020 22:50:03 EDT INFO] Set 0 experience points on SangoPanther
+[Fri, 25. Sep 2020 22:50:03 EDT INFO] Player SangoPanther joined with silent joining permission, not sending a join message
+[Fri, 25. Sep 2020 22:50:03 EDT INFO] SangoPanther[/126.82.181.233:49618] logged in with entity id 6799 at ([lobby]0.5, 3.0, 0.5)
+[15:24]
+[Fri, 25. Sep 2020 22:50:11 EDT INFO] SangoPanther issued server command: /fl
+[15:24]
 [Fri, 25. Sep 2020 22:50:28 EDT WARN] SangoPanther moved too quickly! -0.6364105321893011,0.495200877005912,-10.264132829046986
 [15:24]
 [Fri, 25. Sep 2020 22:50:47 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
@@ -106,3 +134,519 @@
 [Fri, 25. Sep 2020 22:51:06 EDT ERROR] ------------------------------
 [Fri, 25. Sep 2020 22:51:06 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
 [Fri, 25. Sep 2020 22:51:06 EDT ERROR] ------------------------------
+[15:25]
+[Fri, 25. Sep 2020 22:51:06 EDT INFO] [INFO]一番右のネザースターでスポーンに戻れます。
+[15:25]
+[Fri, 25. Sep 2020 22:51:13 EDT INFO] [staff][STAFF]SangoPanther: ee (ええ)
+[Fri, 25. Sep 2020 22:51:13 EDT INFO] Line 2 changed!
+[15:25]
+[Fri, 25. Sep 2020 22:51:18 EDT INFO] Line 2 changed!
+[Fri, 25. Sep 2020 22:51:18 EDT INFO] There are 1 of a max 25 players online: SangoPanther
+[15:25]
+[Fri, 25. Sep 2020 22:51:20 EDT INFO] Line 3 changed!
+[15:25]
+[Fri, 25. Sep 2020 22:51:25 EDT INFO] Line 3 changed!
+[Fri, 25. Sep 2020 22:51:25 EDT INFO] There are 1 of a max 25 players online: SangoPanther
+[Fri, 25. Sep 2020 22:51:27 EDT INFO] Line 4 changed!
+[15:25]
+[Fri, 25. Sep 2020 22:51:30 EDT INFO] Line 4 changed!
+[Fri, 25. Sep 2020 22:51:33 EDT INFO] Line 5 changed!
+[Fri, 25. Sep 2020 22:51:34 EDT INFO] Line 5 changed!
+[Fri, 25. Sep 2020 22:51:34 EDT INFO] [staff][STAFF]SangoPanther: w (w)
+[15:25]
+[Fri, 25. Sep 2020 22:51:37 EDT INFO] Line 6 changed!
+[Fri, 25. Sep 2020 22:51:40 EDT INFO] Line 6 changed!
+[15:25]
+[Fri, 25. Sep 2020 22:51:42 EDT INFO] Line 7 changed!
+[Fri, 25. Sep 2020 22:51:44 EDT INFO] Line 7 changed!
+
+SangoPanther昨日 15:25
+stop
+
+さんごサーバー
+ボット
+昨日 15:25
+[Fri, 25. Sep 2020 22:51:53 EDT INFO] Set 18 experience levels on SangoPanther
+[Fri, 25. Sep 2020 22:51:55 EDT INFO] Set 0 experience points on SangoPanther
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] The server has not responded for 10 seconds! Creating thread dump
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]     PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.MovingObjectPosition.<init>(SourceFile:30)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.World.rayTrace(World.java:1008)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.World.rayTrace(World.java:853)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerConnection.a(PlayerConnection.java:1817)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PacketPlayInArmAnimation.a(SourceFile:32)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PacketPlayInArmAnimation.a(SourceFile:9)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerConnectionUtils.lambda$ensureMainThread$0(PlayerConnectionUtils.java:15)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerConnectionUtils$$Lambda$3086/995045063.run(Unknown Source)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+[15:25]
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         java.util.concurrent.FutureTask.run(FutureTask.java:266)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.SystemUtils.a(SystemUtils.java:108)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:1018)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:439)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:940)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] The server has not responded for 15 seconds! Creating thread dump
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]     PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         java.lang.System.nanoTime(Native Method)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         co.aikar.timings.TimingHandler.stopTiming(TimingHandler.java:119)
+[15:25]
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.ChunkMap.put(ChunkMap.java:72)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.ChunkMap.put(ChunkMap.java:8)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PaperAsyncChunkProvider$PendingChunk.postChunk(PaperAsyncChunkProvider.java:531)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PaperAsyncChunkProvider$PendingChunk$$Lambda$2710/709817139.run(Unknown Source)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PaperAsyncChunkProvider.processMainThreadQueue(PaperAsyncChunkProvider.java:116)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PaperAsyncChunkProvider.processMainThreadQueue(PaperAsyncChunkProvider.java:110)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PaperAsyncChunkProvider.processMainThreadQueue(PaperAsyncChunkProvider.java:105)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PaperAsyncChunkProvider.processMainThreadQueue(PaperAsyncChunkProvider.java:98)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:1020)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:439)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:940)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 22:51:55 EDT ERROR] ------------------------------
+[15:25]
+[Fri, 25. Sep 2020 22:51:55 EDT INFO] SangoPanther lost connection: Disconnected
+[Fri, 25. Sep 2020 22:51:55 EDT INFO] Player SangoPanther quit with silent quitting permission, not sending a quit message
+[15:26]
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR] The server has not responded for 20 seconds! Creating thread dump
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         java.io.FileOutputStream.close0(Native Method)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         java.io.FileOutputStream.access$000(FileOutputStream.java:53)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         java.io.FileOutputStream$1.close(FileOutputStream.java:356)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         java.io.FileDescriptor.closeAll(FileDescriptor.java:212)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         java.io.FileOutputStream.close(FileOutputStream.java:354)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         org.apache.commons.io.FileUtils.writeStringToFile(FileUtils.java:1983)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         org.apache.commons.io.FileUtils.writeStringToFile(FileUtils.java:2017)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         net.minecraft.server.v1_13_R2.ServerStatisticManager.a(ServerStatisticManager.java:61)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerList.savePlayerFile(PlayerList.java:349)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerList.disconnect(PlayerList.java:445)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerConnection.a(PlayerConnection.java:1466)
+[15:26]
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         net.minecraft.server.v1_13_R2.NetworkManager.handleDisconnection(NetworkManager.java:367)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         net.minecraft.server.v1_13_R2.ServerConnection.c(ServerConnection.java:153)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:1132)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:439)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:940)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 22:52:01 EDT ERROR] ------------------------------
+[15:26]
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerList.savePlayerFile(PlayerList.java:355)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerList.disconnect(PlayerList.java:445)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerConnection.a(PlayerConnection.java:1466)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         net.minecraft.server.v1_13_R2.NetworkManager.handleDisconnection(NetworkManager.java:367)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         net.minecraft.server.v1_13_R2.ServerConnection.c(ServerConnection.java:153)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:1132)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:439)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:940)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:52:06 EDT INFO] SangoPanther left the game
+[Fri, 25. Sep 2020 22:52:06 EDT INFO] There are 0 of a max 25 players online: 
+[Fri, 25. Sep 2020 22:52:06 EDT INFO] Stopping the server
+[Fri, 25. Sep 2020 22:52:06 EDT INFO] Stopping server
+[15:26]
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR] The server has not responded for 25 seconds! Creating thread dump
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         java.io.FileOutputStream.close0(Native Method)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         java.io.FileOutputStream.access$000(FileOutputStream.java:53)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         java.io.FileOutputStream$1.close(FileOutputStream.java:356)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         java.io.FileDescriptor.closeAll(FileDescriptor.java:212)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         java.io.FileOutputStream.close(FileOutputStream.java:354)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         sun.nio.cs.StreamEncoder.implClose(StreamEncoder.java:320)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         sun.nio.cs.StreamEncoder.close(StreamEncoder.java:149)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         java.io.OutputStreamWriter.close(OutputStreamWriter.java:233)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         com.google.common.io.Closer.close(Closer.java:216)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         com.google.common.io.CharSink.write(CharSink.java:101)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         com.google.common.io.Files.write(Files.java:317)
+[Fri, 25. Sep 2020 22:52:05 EDT ERROR]         net.minecraft.server.v1_13_R2.AdvancementDataPlayer.c(AdvancementDataPlayer.java:218)
+[15:26]
+[Fri, 25. Sep 2020 22:52:10 EDT INFO] Disabling DiscordSRV v1.19.1
+[15:30]
+[Fri, 25. Sep 2020 22:56:03 EDT INFO] Not using JDBC, one of host/port/database was default
+[Fri, 25. Sep 2020 22:56:03 EDT INFO] Enabling LuckPerms hook
+[Fri, 25. Sep 2020 22:56:03 EDT INFO] No chat plugin hooks enabled
+[15:30]
+[Fri, 25. Sep 2020 22:56:23 EDT INFO] There are 0 of a max 25 players online:
+[15:31]
+[Fri, 25. Sep 2020 22:57:02 EDT INFO] There are 0 of a max 25 players online:
+[15:31]
+[Fri, 25. Sep 2020 22:57:42 EDT INFO] There are 0 of a max 25 players online:
+[15:32]
+[Fri, 25. Sep 2020 22:58:14 EDT INFO] [INFO]Discordグループはこちら→https://discord.gg/47wwJtH
+サーバーに参加するよう招待されました
+さんごサーバー
+7人がオンライン
+13人
+
+参加しました
+[15:32]
+[Fri, 25. Sep 2020 22:58:20 EDT INFO] There are 0 of a max 25 players online:
+[15:32]
+[Fri, 25. Sep 2020 22:58:41 EDT WARN] Processing login for SangoPanther took 1367ms.
+[Fri, 25. Sep 2020 22:58:42 EDT INFO] UUID of player SangoPanther is d4bab164-2fff-40e6-90e3-13b3e27ae654
+[15:32]
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR] The server has not responded for 10 seconds! Creating thread dump
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.util.zip.ZipFile.read(Native Method)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:734)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:434)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         sun.misc.Resource.getBytes(Resource.java:124)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.net.URLClassLoader.defineClass(URLClassLoader.java:463)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.net.URLClassLoader.access$100(URLClassLoader.java:74)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.net.URLClassLoader$1.run(URLClassLoader.java:369)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.net.URLClassLoader$1.run(URLClassLoader.java:363)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.security.AccessController.doPrivileged(Native Method)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.net.URLClassLoader.findClass(URLClassLoader.java:362)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+[15:32]
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:352)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.CriterionTriggerSummonedEntity.a(SourceFile:33)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.AdvancementDataPlayer.c(AdvancementDataPlayer.java:290)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.AdvancementDataPlayer.d(AdvancementDataPlayer.java:89)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.AdvancementDataPlayer.g(AdvancementDataPlayer.java:196)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.AdvancementDataPlayer.<init>(AdvancementDataPlayer.java:54)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerList.h(PlayerList.java:1460)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.EntityPlayer.<init>(EntityPlayer.java:102)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerList.attemptLogin(PlayerList.java:533)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.LoginListener.b(LoginListener.java:149)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.LoginListener.tick(LoginListener.java:65)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.NetworkManager.a(NetworkManager.java:271)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.ServerConnection.c(ServerConnection.java:129)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:1132)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:439)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:940)
+[15:32]
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 22:58:52 EDT ERROR] ------------------------------
+[15:32]
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR] The server has not responded for 15 seconds! Creating thread dump
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         java.util.zip.ZipFile.read(Native Method)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:734)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:434)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         java.io.FilterInputStream.read(FilterInputStream.java:107)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         com.google.common.io.ByteStreams.copy(ByteStreams.java:106)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         com.google.common.io.ByteStreams.toByteArray(ByteStreams.java:166)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:108)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         org.bukkit.plugin.java.JavaPluginLoader.getClassByName(JavaPluginLoader.java:199)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:97)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86)
+[15:32]
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.query.DataSelector.select(DataSelector.java:50)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.model.PermissionHolder.queryOrder(PermissionHolder.java:254)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.model.PermissionHolder.getOwnInheritanceNodes(PermissionHolder.java:283)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.inheritance.InheritanceGraph.successors(InheritanceGraph.java:62)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.inheritance.InheritanceGraph.successors(InheritanceGraph.java:46)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.graph.TraversalAlgorithm$DepthFirstIterator.withSuccessors(TraversalAlgorithm.java:193)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.graph.TraversalAlgorithm$DepthFirstIterator.<init>(TraversalAlgorithm.java:163)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.graph.TraversalAlgorithm$2.lambda$traverse$0(TraversalAlgorithm.java:90)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.graph.TraversalAlgorithm$2$$Lambda$3044/499566085.iterator(Unknown Source)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.model.PermissionHolder.resolveInheritedNodes(PermissionHolder.java:296)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.model.PermissionHolder.exportPermissions(PermissionHolder.java:361)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.cacheddata.HolderCachedDataManager.resolvePermissions(HolderCachedDataManager.java:78)
+[15:32]
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.cacheddata.AbstractCachedDataManager.calculatePermissions(AbstractCachedDataManager.java:154)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.cacheddata.AbstractCachedDataManager$$Lambda$2339/954740657.apply(Unknown Source)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1660)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.cache.LoadingMap.get(LoadingMap.java:67)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.cacheddata.AbstractCachedDataManager$AbstractContainer.get(AbstractCachedDataManager.java:202)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.common.cacheddata.AbstractCachedDataManager.getPermissionData(AbstractCachedDataManager.java:85)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         me.lucko.luckperms.bukkit.inject.permissible.LuckPermsPermissible.hasPermission(LuckPermsPermissible.java:176)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.entity.CraftHumanEntity.hasPermission(CraftHumanEntity.java:214)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         org.bukkit.command.Command.testPermissionSilent(Command.java:215)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.command.BukkitCommandWrapper.test(BukkitCommandWrapper.java:39)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.command.BukkitCommandWrapper.test(BukkitCommandWrapper.java:20)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         com.mojang.brigadier.tree.CommandNode.canUse(CommandNode.java:78)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.CommandDispatcher.a(CommandDispatcher.java:287)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.CommandDispatcher.a(CommandDispatcher.java:260)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerList.a(PlayerList.java:1185)
+[15:32]
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerList.f(PlayerList.java:838)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerList.a(PlayerList.java:166)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.LoginListener.b(LoginListener.java:169)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.LoginListener.tick(LoginListener.java:65)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.NetworkManager.a(NetworkManager.java:271)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.ServerConnection.c(ServerConnection.java:129)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:1132)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:439)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:940)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 22:58:57 EDT ERROR] ------------------------------
+[15:33]
+[Fri, 25. Sep 2020 22:58:59 EDT INFO] Set 18 experience levels on SangoPanther
+[Fri, 25. Sep 2020 22:58:59 EDT INFO] Set 0 experience points on SangoPanther
+[Fri, 25. Sep 2020 22:58:59 EDT INFO] Player SangoPanther joined with silent joining permission, not sending a join message
+[Fri, 25. Sep 2020 22:58:59 EDT INFO] SangoPanther[/126.82.181.233:49782] logged in with entity id 71 at ([lobby]0.5, 3.0, 0.5)
+[Fri, 25. Sep 2020 22:58:59 EDT INFO] UUID of player SangoPanther is d4bab164-2fff-40e6-90e3-13b3e27ae654
+[Fri, 25. Sep 2020 22:58:59 EDT INFO] SangoPanther lost connection: Disconnected
+[Fri, 25. Sep 2020 22:58:59 EDT INFO] Player SangoPanther quit with silent quitting permission, not sending a quit message
+[15:33]
+[Fri, 25. Sep 2020 22:59:07 EDT INFO] SangoPanther left the game
+[15:33]
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR] The server has not responded for 10 seconds! Creating thread dump
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]     PID: 36 | Suspended: false | Native: false | State: RUNNABLE
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.AdvancementDataPlayer.f(AdvancementDataPlayer.java:421)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.AdvancementDataPlayer.e(AdvancementDataPlayer.java:391)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.AdvancementDataPlayer.e(AdvancementDataPlayer.java:112)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.AdvancementDataPlayer.g(AdvancementDataPlayer.java:195)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.AdvancementDataPlayer.<init>(AdvancementDataPlayer.java:54)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerList.h(PlayerList.java:1460)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.EntityPlayer.<init>(EntityPlayer.java:102)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.PlayerList.attemptLogin(PlayerList.java:533)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.LoginListener.b(LoginListener.java:149)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.LoginListener.tick(LoginListener.java:65)
+[15:33]
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.NetworkManager.a(NetworkManager.java:271)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.ServerConnection.c(ServerConnection.java:129)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.b(MinecraftServer.java:1132)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.DedicatedServer.b(DedicatedServer.java:439)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:940)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 22:59:10 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 22:59:10 EDT INFO] Set 18 experience levels on SangoPanther
+[Fri, 25. Sep 2020 22:59:10 EDT INFO] Set 0 experience points on SangoPanther
+[Fri, 25. Sep 2020 22:59:10 EDT INFO] Player SangoPanther joined with silent joining permission, not sending a join message
+[Fri, 25. Sep 2020 22:59:10 EDT INFO] SangoPanther[/126.82.181.233:49801] logged in with entity id 72 at ([lobby]0.5, 3.0, 0.5)
+[Fri, 25. Sep 2020 22:59:10 EDT INFO] There are 1 of a max 25 players online: SangoPanther
+[15:33]
+[Fri, 25. Sep 2020 22:59:40 EDT INFO] There are 1 of a max 25 players online: SangoPanther
+[15:33]
+[Fri, 25. Sep 2020 22:59:47 EDT INFO] [staff][STAFF]SangoPanther: w (w)
+[15:33]
+[Fri, 25. Sep 2020 22:59:51 EDT INFO] SangoPanther issued server command: /gamemode spectator
+[Fri, 25. Sep 2020 22:59:53 EDT INFO] [SangoPanther: Set own game mode to Spectator Mode]
+[15:34]
+[Fri, 25. Sep 2020 23:00:22 EDT INFO] There are 1 of a max 25 players online: SangoPanther
+[Fri, 25. Sep 2020 23:00:22 EDT WARN] SangoPanther moved too quickly! 88.99928269483817,0.0,52.27377508588067
+[15:34]
+[Fri, 25. Sep 2020 23:00:30 EDT WARN] SangoPanther moved too quickly! 21.90644032018284,0.0,44.259969334095715
+[15:34]
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR] The server has not responded for 10 seconds! Creating thread dump
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         java.io.FileOutputStream.open0(Native Method)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         java.io.FileOutputStream.open(FileOutputStream.java:270)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.a(WorldPersistentData.java:191)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.b(WorldPersistentData.java:173)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection$$Lambda$3135/1570215852.accept(Unknown Source)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         com.google.common.collect.ImmutableList.forEach(ImmutableList.java:408)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection.a(SourceFile:39)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:936)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
+[15:34]
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 23:00:55 EDT ERROR] ------------------------------
+[15:35]
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR] The server has not responded for 15 seconds! Creating thread dump
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         java.io.FileOutputStream.close0(Native Method)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         java.io.FileOutputStream.access$000(FileOutputStream.java:53)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         java.io.FileOutputStream$1.close(FileOutputStream.java:356)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         java.io.FileDescriptor.closeAll(FileDescriptor.java:212)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         java.io.FileOutputStream.close(FileOutputStream.java:354)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:241)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         java.io.FilterOutputStream.close(FilterOutputStream.java:159)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         java.io.FilterOutputStream.close(FilterOutputStream.java:159)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         net.minecraft.server.v1_13_R2.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:37)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.a(WorldPersistentData.java:193)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.b(WorldPersistentData.java:173)
+[15:35]
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection$$Lambda$3135/1570215852.accept(Unknown Source)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         com.google.common.collect.ImmutableList.forEach(ImmutableList.java:408)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection.a(SourceFile:39)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:936)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 23:01:00 EDT ERROR] ------------------------------
+[15:35]
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR] The server has not responded for 20 seconds! Creating thread dump
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         java.io.FileOutputStream.open0(Native Method)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         java.io.FileOutputStream.open(FileOutputStream.java:270)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.a(WorldPersistentData.java:191)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.b(WorldPersistentData.java:173)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection$$Lambda$3135/1570215852.accept(Unknown Source)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         com.google.common.collect.ImmutableList.forEach(ImmutableList.java:408)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection.a(SourceFile:39)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:936)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
+[15:35]
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 23:01:06 EDT ERROR] ------------------------------
+[15:35]
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR] The server has not responded for 25 seconds! Creating thread dump
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         java.io.FileOutputStream.close0(Native Method)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         java.io.FileOutputStream.access$000(FileOutputStream.java:53)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         java.io.FileOutputStream$1.close(FileOutputStream.java:356)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         java.io.FileDescriptor.closeAll(FileDescriptor.java:212)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         java.io.FileOutputStream.close(FileOutputStream.java:354)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         java.util.zip.DeflaterOutputStream.close(DeflaterOutputStream.java:241)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         java.io.FilterOutputStream.close(FilterOutputStream.java:159)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         java.io.FilterOutputStream.close(FilterOutputStream.java:159)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         net.minecraft.server.v1_13_R2.NBTCompressedStreamTools.a(NBTCompressedStreamTools.java:37)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.a(WorldPersistentData.java:193)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldPersistentData.b(WorldPersistentData.java:173)
+[15:35]
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection$$Lambda$3135/1570215852.accept(Unknown Source)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         com.google.common.collect.ImmutableList.forEach(ImmutableList.java:408)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         net.minecraft.server.v1_13_R2.PersistentCollection.a(SourceFile:39)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:936)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 23:01:10 EDT ERROR] ------------------------------
+[15:35]
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-655 (MC: 1.13.2) ---
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR] The server has not responded for 30 seconds! Creating thread dump
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR] Server thread dump (Look for plugins here before reporting to Paper!):
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR] Current Thread: Server thread
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]     PID: 36 | Suspended: false | Native: true | State: RUNNABLE
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]     Stack:
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         java.io.FileOutputStream.open0(Native Method)
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         java.io.FileOutputStream.open(FileOutputStream.java:270)
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:213)
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         java.io.FileOutputStream.<init>(FileOutputStream.java:162)
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldNBTStorage.saveWorldData(WorldNBTStorage.java:171)
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         net.minecraft.server.v1_13_R2.ServerNBTManager.saveWorldData(SourceFile:33)
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.a(WorldServer.java:935)
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         net.minecraft.server.v1_13_R2.WorldServer.save(WorldServer.java:878)
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         org.bukkit.craftbukkit.v1_13_R2.CraftWorld.save(CraftWorld.java:954)
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.a(MinecraftServer.java:972)
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         net.minecraft.server.v1_13_R2.MinecraftServer.run(MinecraftServer.java:837)
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR]         java.lang.Thread.run(Thread.java:748)
+[15:35]
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR] ------------------------------
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR] --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[Fri, 25. Sep 2020 23:01:15 EDT ERROR] ------------------------------
+[15:35]
+[Fri, 25. Sep 2020 23:01:18 EDT INFO] [INFO]一番右のネザースターでスポーンに戻れます。
+[Fri, 25. Sep 2020 23:01:18 EDT INFO] SangoPanther issued server command: /pl
+[Fri, 25. Sep 2020 23:01:18 EDT INFO] SangoPanther lost connection: Disconnected
+[Fri, 25. Sep 2020 23:01:18 EDT INFO] Player SangoPanther quit with silent quitting permission, not sending a quit message
+[15:35]
+[Fri, 25. Sep 2020 23:01:24 EDT INFO] SangoPanther left the game
+[Fri, 25. Sep 2020 23:01:24 EDT INFO] There are 0 of a max 25 players online:
+[15:35]
+[Fri, 25. Sep 2020 23:01:37 EDT INFO] There are 0 of a max 25 players online:
+[15:36]
+[Fri, 25. Sep 2020 23:02:16 EDT INFO] There are 0 of a max 25 players online:
